@@ -89,13 +89,13 @@ The main function in the provided C code demonstrates the usage of `pystr`.
 
  <div align="center">
 <br/>
-<img src="https://github.com/infinity-set/ActiveDirectory_UserCreation_Script/assets/142350896/a30d8689-a617-46bf-a9a6-21354b02b1e1" height="100%" width="100%" alt="Main function code displayed in C"/>
+<img src="https://github.com/infinity-set/pystr/assets/142350896/cacb5493-8531-40ed-91c4-5c308a2bcd04" height="100%" width="100%" alt="Main function code displayed in C"/>
 <br />   
  </div>
 
  <div align="center">
 <br/>
-<img src="https://github.com/infinity-set/ActiveDirectory_UserCreation_Script/assets/142350896/6bc2c51e-c982-4af4-b31b-b1ccaa914c62" height="100%" width="100%" alt="Output of the execution displayed."/>
+<img src="https://github.com/infinity-set/pystr/assets/142350896/490d8c2b-570d-4e2a-ab71-fd2a8cff6196" height="100%" width="100%" alt="Output of the execution displayed."/>
 <br />   
  </div>
 
