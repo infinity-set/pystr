@@ -85,7 +85,7 @@ The allocation and deallocation of memory for the string data are managed within
 
 ## Usage
 
-The main function in the provided C code demonstrates the usage of *pystr*.
+The main function in the provided C code demonstrates the usage of `pystr`.
 
  <div align="center">
 <br/>
