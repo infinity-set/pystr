@@ -44,8 +44,8 @@ Before using this C program, ensure that you have the following:
 [<img align="left" alt="Microsoft Icon" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" />][windows]
 
 [windows]: https://www.microsoft.com/
-<br /><br />
 
+<br /><br />
 
 ## Memory Management and Pointers
 

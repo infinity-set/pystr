@@ -200,3 +200,4 @@ void pystr_assign(pystr *self, const char *str)
     // Append the new string
     pystr_appends(self, str);
 }
+
