@@ -1,4 +1,4 @@
-# pystr - Dynamic String Implementation in C
+# pystr - Dynamic String Class Implementation in C
 
 ## Overview
 
