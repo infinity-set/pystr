@@ -25,6 +25,7 @@ Before using this C program, ensure that you have the following:
 
 - A C compiler installed on your system.
 - Basic understanding of C programming, including memory management concepts.
+- Review: [Doubly Linked List Concepts](https://github.com/infinity-set/doubly_linked_list)
 
 ## Languages and Utilities Used
 
