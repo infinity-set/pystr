@@ -54,28 +54,43 @@ This repository emphasizes memory management and pointers, crucial concepts for 
 
 ## String Operations
 
-## String Operations
-
 - **Create a New String:** `pystr_new()`
-  - Python syntax: `string = str()`
+  - **Python syntax:** 
+    ```python
+    string = str()
+    ```
 
 - **Delete a String:** `pystr_del()`
-  - Python syntax: Note: Python handles memory management automatically, so no explicit deletion is required.
+  - **Python syntax:** 
+    ```python
+    # Note: Python handles memory management automatically, so no explicit deletion is required.
+    ```
 
 - **Get String Length:** `pystr_len()`
-  - Python syntax: `string = len(string)`
+  - **Python syntax:** 
+    ```python
+    string_length = len(string)
+    ```
 
 - **Get String Data:** `pystr_str()`
 
 - **Append a Character:** `pystr_append()`
-  - Python syntax: `string += new_character`
+  - **Python syntax:** 
+    ```python
+    string += new_character
+    ```
 
 - **Append a String:** `pystr_appends()`
-  - Python syntax: `string += another_string`
+  - **Python syntax:** 
+    ```python
+    string += another_string
+    ```
 
 - **Assign a New String:** `pystr_assign()`
-  - Python syntax: `string = new_assigned_string`
-
+  - **Python syntax:** 
+    ```python
+    string = new_assigned_string
+    ```
 
 ## Object-Oriented Programming (OOP) Approach
 
